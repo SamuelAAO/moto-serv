@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="unlock.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="35.841475"
+     inkscape:cx="7.7842779"
+     inkscape:cy="8.0214333"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 3.7236382,6.6307333 c -0.6552936,0 -1.18278,0.5274865 -1.18278,1.1827801 v 6.8642026 c 0,0.655294 0.5274864,1.182781 1.18278,1.182781 h 8.5527238 c 0.655293,0 1.18278,-0.527487 1.18278,-1.182781 V 7.8135134 c 0,-0.6552936 -0.527487,-1.1827801 -1.18278,-1.1827801 z M 8,8.800523 a 0.78308198,0.78308198 0 0 1 0.783082,0.783082 v 1.117523 A 0.78308198,0.78308198 0 0 1 8,11.484211 0.78308198,0.78308198 0 0 1 7.216918,10.701128 V 9.583605 A 0.78308198,0.78308198 0 0 1 8,8.800523 Z"
+       style="fill:#ca0000;stroke-width:1.4085;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path7" />
+    <path
+       id="path4"
+       style="fill:none;fill-opacity:1;stroke:#ca0000;stroke-width:1.56616;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 11.568166,7.8935632 v 2.5061818 c 0,1.10321 -1.5914027,1.991355 -3.5681668,1.991355 -1.976764,0 -3.5681661,-0.888145 -3.5681661,-1.991355 V 2.8628478 c 0,-1.1032111 1.5914021,-1.99135584 3.5681661,-1.99135584 v 0 c 1.9767641,0 3.5681668,0.88814474 3.5681668,1.99135584 v 1.8536361" />
+  </g>
+</svg>

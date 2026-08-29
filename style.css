@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    border: 5px solid #6b1616;
+    border-radius: 4px;
+    min-height: 100vh;
+    margin: 0;
+    box-sizing: border-box;
+}
+.topbar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    z-index: 100;
+    padding: 20px 0;
+    border-bottom: 1px solid #6b1616;
+}
+.menu-icon {
+    width: 30px;
+    margin-left: 20px;
+}
+.menu-icon span {
+    display: block;
+    height: 3px;
+    background-color: #6b1616;
+    margin: 5px 0;
+    border-radius: 2px;
+}
+.texto {
+    color: #fff5f5;
+    margin: 5px 10px;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    
+}
+.botano {
+    width:  145px;
+    height: 145px;
+    margin: 20px;
+    background-color: black;
+    color: #ffc4c4;
+    border: solid #ca0000;
+    border-radius: 25px;
+    -webkit-tap-highlight-color: transparent;
+    transition: 0.15s ease;
+    font-weight: 1000;
+}
+.botano:active {
+    transform: scale(95%);
+    background-color: rgb(27, 27, 27);
+}
+
+.bo {
+    display: grid;
+    place-items: center;
+    grid-template-columns: repeat(2,1fr);
+}
+.icons {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
