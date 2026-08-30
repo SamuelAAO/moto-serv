@@ -12,12 +12,19 @@ body {
     width: 100%;
     background-color: black;
     z-index: 100;
-    padding: 20px 0;
     border-bottom: 1px solid #6b1616;
+}
+.container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px 10px;
+    gap: 10px;
 }
 .menu-icon {
     width: 30px;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .menu-icon span {
     display: block;
@@ -26,13 +33,15 @@ body {
     margin: 5px 0;
     border-radius: 2px;
 }
-.texto {
+.titulo {
     color: #fff5f5;
-    margin: 5px 10px;
     font-family: "Nunito", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
-    
+    position: absolute;
+    margin: 0;
+    left: 50%;
+    transform: translateX(-50%)
 }
 .botano {
     width:  145px;
@@ -60,4 +69,7 @@ body {
     width: 50px;
     height: 50px;
     margin: 10px;
+}
+.espaco {
+    height: 40px;
 }
